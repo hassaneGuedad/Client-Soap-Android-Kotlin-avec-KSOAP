@@ -40,3 +40,10 @@ Pour que l'application fonctionne, le **serveur SOAP** (Backend) doit être dém
 *   `ws/` : Gestion du Web Service (`Service.kt` avec ksoap2).
 *   `adapter/` : Adaptateur pour le RecyclerView (`CompteAdapter`).
 *   `MainActivity.kt` : Logique principale de l'application.
+
+  ## Démonstration 
+
+https://github.com/user-attachments/assets/2cc386f0-2fc6-42e4-a862-4c150b90457f
+
+
+  
