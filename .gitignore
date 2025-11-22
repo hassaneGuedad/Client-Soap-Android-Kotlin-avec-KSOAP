@@ -1,15 +1,17 @@
+# Android & Kotlin
+*.class
+*.log
 *.iml
-.gradle
+*.apk
+*.jar
+*.dex
+
+# Build folders
+/build/
+/app/build/
+/server/build/
+
+# IntelliJ / Android Studio
+/.idea/
+/.gradle/
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
